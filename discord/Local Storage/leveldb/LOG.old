@@ -1,0 +1,16 @@
+2024/08/23-23:24:35.748 1d1a Reusing MANIFEST /home/pkp/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/08/23-23:24:35.749 1d1a Recovering log #7
+2024/08/23-23:24:35.749 1d1a Reusing old log /home/pkp/.config/discord/Local Storage/leveldb/000007.log 
+2024/08/23-23:37:20.044 1d1b Level-0 table #11: started
+2024/08/23-23:37:20.159 1d1b Level-0 table #11: 41792 bytes OK
+2024/08/23-23:37:20.293 1d1b Delete type=0 #7
+2024/08/23-23:37:20.293 1d1b Compacting 4@0 + 0@1 files
+2024/08/23-23:37:20.393 1d1b Generated table #12@0: 12 keys, 2407846 bytes
+2024/08/23-23:37:20.482 1d1b Generated table #13@0: 90 keys, 3222911 bytes
+2024/08/23-23:37:20.538 1d1b Generated table #14@0: 76 keys, 807556 bytes
+2024/08/23-23:37:20.539 1d1b Compacted 4@0 + 0@1 files => 6438313 bytes
+2024/08/23-23:37:20.583 1d1b compacted to: files[ 0 3 0 0 0 0 0 ]
+2024/08/23-23:37:20.583 1d1b Delete type=2 #3
+2024/08/23-23:37:20.583 1d1b Delete type=2 #6
+2024/08/23-23:37:20.583 1d1b Delete type=2 #8
+2024/08/23-23:37:20.583 1d1b Delete type=2 #11

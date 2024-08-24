@@ -1,0 +1,6 @@
+2024/08/24-05:56:41.570 b18 Reusing MANIFEST /home/pkp/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/08/24-05:56:41.800 b18 Recovering log #10
+2024/08/24-05:56:41.815 b18 Reusing old log /home/pkp/.config/discord/Local Storage/leveldb/000010.log 
+2024/08/24-05:59:38.146 b19 Level-0 table #17: started
+2024/08/24-05:59:38.476 b19 Level-0 table #17: 802973 bytes OK
+2024/08/24-05:59:38.511 b19 Delete type=0 #10
